@@ -1,0 +1,26 @@
+header {
+	background-color: ;
+}
+h1{
+	color: white;
+}
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url("http://cdn.wallpapersafari.com/30/35/AHhPgi.jpg"
+);
+	background-size:cover;
+}
+p    {
+     margin-top: 20px;
+	letter-spacing: 2px;
+}
+a {
+	color: white;
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:
+   height:5%;   /* Height of the footer */
+}
